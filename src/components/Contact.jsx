@@ -1,6 +1,6 @@
 import WhatsappLogo from '../assets/WhatsApp.png'
 import TiktokLogo from '../assets/tiktok.webp'
-import FacebookLogo from '../assets/facebook-logo.png'
+import FacebookLogo from '../assets/Facebook-logo.png'
 
 function Contact(){
     return(
