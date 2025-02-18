@@ -27,7 +27,8 @@ nav .container .navbar-brand p{
 }
 
 .hero .row .content-left{
-  padding: 40px 0;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .hero .row .content-left h2{
@@ -332,6 +333,24 @@ nav .container .navbar-brand p{
     width: 60px;
     height: 60px;
   }
+
+  .hero .row .content-left p{
+    width: 95%;
+  }
+
+  .hero .row .content-left h2{
+    font-family: "Noto Sans", serif;
+    font-weight: 800;
+    font-size: 30px;
+  }
+
+  .highlight .row .content-left .flex-poin .poin b{
+    font-size: 26px;
+  }
+  
+  .highlight .row .content-left .flex-poin .poin p{
+    font-size: 12px;
+  }
 }
 @media screen and (max-width: 380px) {
   .highlight .row .content-right .list-video .video{
@@ -340,5 +359,19 @@ nav .container .navbar-brand p{
 
   .highlight .row .content-right .list-video{
     gap: 20px;
+  }
+
+  .hero .row .content-left h2{
+    font-family: "Noto Sans", serif;
+    font-weight: 800;
+    font-size: 26px;
+  }
+
+  .highlight .row .content-left .flex-poin .poin b{
+    font-size: 22px;
+  }
+  
+  .highlight .row .content-left .flex-poin .poin p{
+    font-size: 11px;
   }
 }
