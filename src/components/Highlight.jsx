@@ -1,4 +1,4 @@
-import ss1 from '../assets/Screenshot1.png'
+import ss1 from '../assets/Screenshot3.png'
 import ss2 from '../assets/Screenshot2.png'
 
 function Highlight(){
@@ -12,7 +12,7 @@ function Highlight(){
                             <img src={ss1} alt="" />
                             <div className="flex-poin">
                                 <div className="poin followers">
-                                    <b>+14K</b>
+                                    <b>+16K</b>
                                     <p>Followers</p>
                                 </div>
                                 <div className="poin views">
@@ -20,7 +20,7 @@ function Highlight(){
                                     <p>Views</p>
                                 </div>
                                 <div className="poin likes">
-                                    <b>+25K</b>
+                                    <b>+30K</b>
                                     <p>Likes</p>
                                 </div>
                             </div>
@@ -42,13 +42,13 @@ function Highlight(){
                                 </div>
                                 <div className="video">
                                     <h4>03.</h4>
-                                    <iframe width="120" height="70" src="https://www.youtube.com/embed/DVA418zsap8?si=gMS27GG5iNwNeOgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                                    <p>Menelusuri Jejak Leluhur Nabi: Garis Keturunan yang Diberkahi | Silsilah Nabi SAW - Ustaz Uki</p>
+                                    <iframe width="120" height="70" src="https://www.youtube.com/embed/9Al3gNQQCGI?si=R5oGLmolKQK3CbcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                    <p>Ikuti Cara Ini, Agar Hidupmu Lebih Positive! | Etika Pertemanan - Ustaz Uki</p>
                                 </div>
                                 <div className="video">
                                     <h4>04.</h4>
-                                    <iframe width="120" height="70" src="https://www.youtube.com/embed/9Al3gNQQCGI?si=R5oGLmolKQK3CbcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                                    <p>Ikuti Cara Ini, Agar Hidupmu Lebih Positive! | Etika Pertemanan - Ustaz Uki</p>
+                                    <iframe width="120" height="70" src="https://www.youtube.com/embed/DVA418zsap8?si=gMS27GG5iNwNeOgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                    <p>Menelusuri Jejak Leluhur Nabi: Garis Keturunan yang Diberkahi | Silsilah Nabi SAW - Ustaz Uki</p>
                                 </div>
                                 <div className="video">
                                     <h4>05.</h4>
@@ -57,8 +57,8 @@ function Highlight(){
                                 </div>
                                 <div className="video">
                                     <h4>06.</h4>
-                                    <iframe width="120" height="70" src="https://www.youtube.com/embed/2_MWUdoVVJ0?si=HG5HvJWqW6bed8f5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                                    <p>Adab Qur'ani - Ustaz Uki</p>
+                                    <iframe width="120" height="70" src="https://www.youtube.com/embed/nd4zWwKsEFc?si=1gTCddKqu0hGDPPX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                    <p>“Untuk Apa, Sih, Kita Ada di Dunia Ini? | Mendalami Makna Kata ‘Ikhlas’ – Ustaz Uki</p>
                                 </div>
                             </div>
                             <a href="https://www.youtube.com/@ustazuki" target="_blank">See more on Youtube</a>
